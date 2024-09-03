@@ -1,4 +1,3 @@
-# marcusvos.github.io
 
 
 Welcome to my portfolio! I bring together practical experience and strong analytical skills, with a Bachelor’s in Biological Sciences and a Master’s in Business Analytics, both from Nanyang Technological University.
