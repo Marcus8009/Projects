@@ -6,6 +6,6 @@ theme: jekyll-theme-slate
 Welcome to my portfolio. Click the images below to view the projects:
 
 [![Machine Learning](https://via.placeholder.com/150)](ml.md)
-[![Data Cleaning](https://via.placeholder.com/150)](cleaning.md)
+[![Data Cleaning](assets/images/cleaning.png)](cleaning.md)
 [![Power BI Visualization](https://via.placeholder.com/150)](powerbi.md)
 [![Tableau Visualization](https://via.placeholder.com/150)](tableau.md)
