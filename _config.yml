@@ -1,4 +1,9 @@
-title: Marcus Vos
+title: "Marcus Vos Portfolio"
+theme: jekyll-theme-slate
 
-
-theme: jekyll-theme-minimal
+# Navigation tabs
+nav:
+  - Machine Learning: ml.md
+  - Data Cleaning: cleaning.md
+  - Power BI Visualization: powerbi.md
+  - Tableau Visualization: tableau.md
