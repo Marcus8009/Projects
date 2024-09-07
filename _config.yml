@@ -3,8 +3,8 @@ description: "A showcase of data cleaning, data visualization, and machine learn
 baseurl: "/Projects" # The subpath of your site
 url: "https://marcus8009.github.io" # Your GitHub Pages URL
 
-# Theme for GitHub Pages (you can change this to any Jekyll theme)
-theme: minima
+# Theme for GitHub Pages (set to default Jekyll theme)
+theme: jekyll-theme-cayman
 
 # Navigation links (these will appear in the header)
 nav:
