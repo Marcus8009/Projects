@@ -1,12 +1,15 @@
-title: "Marcus Vos Portfolio"
-description: "A showcase of data cleaning, data visualization, and machine learning projects by Marcus Vos."
+# Site title and description
+title: "Marcus Vos - Data Analyst Portfolio"
+description: "Showcasing data analysis, visualization, and machine learning projects by Marcus Vos."
+
+# URL configuration
 baseurl: "/Projects" # The subpath of your site
-url: "https://marcus8009.github.io/Projects" # Your GitHub Pages URL
+url: "https://marcus8009.github.io" # Your GitHub Pages URL including subpath
 
-# Theme for GitHub Pages (set to default Jekyll theme)
-theme: jekyll-theme-cayman
+# Theme for GitHub Pages
+theme: jekyll-theme-cayman # You can choose any theme that fits your style
 
-# Navigation links (these will appear in the header)
+# Navigation configuration (links shown in the header)
 nav:
   - title: "Home"
     url: "/Projects/"
@@ -24,10 +27,14 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-# Exclude files that shouldn't be processed (like README)
+# Exclude files that shouldn't be processed
 exclude:
   - README.md
 
-# Include folder for assets
+# Include folder for assets (images, etc.)
 include:
   - assets
+
+# Permalinks configuration (custom URL structure for posts and pages)
+permalinks:
+  pretty: true
