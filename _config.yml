@@ -1,7 +1,7 @@
 title: "Marcus Vos Portfolio"
 description: "A showcase of data cleaning, data visualization, and machine learning projects by Marcus Vos."
 baseurl: "/Projects" # The subpath of your site
-url: "https://marcus8009.github.io" # Your GitHub Pages URL
+url: "https://marcus8009.github.io/Projects" # Your GitHub Pages URL
 
 # Theme for GitHub Pages (set to default Jekyll theme)
 theme: jekyll-theme-cayman
