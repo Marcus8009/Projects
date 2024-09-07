@@ -4,7 +4,7 @@ Welcome to my portfolio. Click the images below to view the projects:
 
 [![Machine Learning](assets/images/machinelearning.png)](ml.md)
 [![Data Cleaning](assets/images/cleaning.png)](cleaning.md)
-[![Power BI Visualization](assets/images/powerbi.jpeg)](powerbi.md)
+[![Power BI Visualization](assets/images/powerbi.png)](powerbi.md)
 [![Tableau Visualization](assets/images/tableau.png)](tableau.md)
 
 
