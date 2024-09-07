@@ -1,13 +1,11 @@
 # Marcus Vos Portfolio
 
-Welcome to my data analytics portfolio! Explore my projects:
+Welcome to my portfolio. Click the images below to view the projects:
 
-- [Machine Learning](ml.md)
-- [Data Cleaning](cleaning.md)
-- [Power BI Visualization](powerbi.md)
-- [Tableau Visualization](tableau.md)
-
-
+[![Machine Learning](assets/images/machinelearning.jpeg)](ml.md)
+[![Data Cleaning](assets/images/cleaning.jpeg)](cleaning.md)
+[![Power BI Visualization](assets/images/powerbi.jpeg)](powerbi.md)
+[![Tableau Visualization](assets/images/tableau.jpeg)](tableau.md)
 
 
 Welcome to my portfolio! I bring together practical experience and strong analytical skills, with a Bachelor’s in Biological Sciences and a Master’s in Business Analytics, both from Nanyang Technological University.
