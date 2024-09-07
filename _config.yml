@@ -1,11 +1,33 @@
 title: "Marcus Vos Portfolio"
-theme: jekyll-theme-slate
+description: "A showcase of data cleaning, data visualization, and machine learning projects by Marcus Vos."
+baseurl: "/Projects" # The subpath of your site
+url: "https://marcus8009.github.io" # Your GitHub Pages URL
 
-# Marcus Vos Portfolio
+# Theme for GitHub Pages (you can change this to any Jekyll theme)
+theme: minima
 
-Welcome to my portfolio. Click the images below to view the projects:
+# Navigation links (these will appear in the header)
+nav:
+  - title: "Home"
+    url: "/Projects/"
+  - title: "Machine Learning"
+    url: "/Projects/ml.md"
+  - title: "Data Cleaning"
+    url: "/Projects/cleaning.md"
+  - title: "Power BI Visualization"
+    url: "/Projects/powerbi.md"
+  - title: "Tableau Visualization"
+    url: "/Projects/tableau.md"
 
-[![Machine Learning](https://via.placeholder.com/150)](ml.md)
-[![Data Cleaning](assets/images/cleaning.png)](cleaning.md)
-[![Power BI Visualization](https://via.placeholder.com/150)](powerbi.md)
-[![Tableau Visualization](https://via.placeholder.com/150)](tableau.md)
+# Markdown configuration
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Exclude files that shouldn't be processed (like README)
+exclude:
+  - README.md
+
+# Include folder for assets
+include:
+  - assets
